@@ -1,0 +1,8 @@
+name: "Lost Altar"
+category: OSINT
+difficulty: Medium
+tags: ["wikipedia", "heritage", "history", "geo"]
+flags:
+  - "FLAG{Steindammer~Kirche}"
+  - "FLAG{Dom@zu@Verden}"
+  - "FLAG{MDCCXIV}"

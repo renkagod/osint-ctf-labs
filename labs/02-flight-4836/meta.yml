@@ -1,0 +1,8 @@
+name: "Flight 4836"
+category: OSINT
+difficulty: Hard
+tags: ["aviation", "cvr", "transcripts", "incident-research"]
+flags:
+  - "FLAG{19000630}"
+  - "FLAG{REMKA@1X-ray@ARRIVAL}"
+  - "FLAG{CDVIII}"
