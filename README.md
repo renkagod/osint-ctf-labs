@@ -1,5 +1,7 @@
 # osint-ctf-labs
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Open-source intelligence **CTF challenge pack** — multi-phase puzzles built around public records, Wikipedia, aviation databases, and transcript research. No Docker required; designed for events, classrooms, and self-study.
 
 Originally authored for Caplag CTF.
@@ -41,7 +43,7 @@ osint-ctf-labs/
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+[MIT](LICENSE) — Copyright (c) 2026 [renkagod](https://github.com/renkagod).
 
 ---
 
