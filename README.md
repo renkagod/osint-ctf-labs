@@ -6,7 +6,7 @@ Open-source intelligence **CTF challenge pack** — multi-phase puzzles built ar
 
 Originally authored for Caplag CTF.
 
-## Labs
+## Features
 
 | Lab | Theme | Skills |
 |-----|--------|--------|
@@ -14,6 +14,12 @@ Originally authored for Caplag CTF.
 | [02 — Flight 4836](labs/02-flight-4836/) | 2024 Baku–Grozny accident | Aviation databases, CVR transcripts, procedure naming |
 
 Each lab has **3 phases** with independent flags. Player briefs live in `public/description.md`; full walkthroughs in `WRITEUP.md` (spoilers).
+
+## Quick start
+
+1. Pick a lab and read `public/description.md` (give this to players).
+2. Host flags in your CTF platform (`meta.yml` lists expected values for checkers).
+3. After the event, share `WRITEUP.md` for debrief.
 
 ## Flag format
 
@@ -29,12 +35,6 @@ osint-ctf-labs/
     ├── 01-lost-altar/
     └── 02-flight-4836/
 ```
-
-## Usage
-
-1. Pick a lab and read `public/description.md` (give this to players).
-2. Host flags in your CTF platform (`meta.yml` lists expected values for checkers).
-3. After the event, share `WRITEUP.md` for debrief.
 
 ## Ethics
 
