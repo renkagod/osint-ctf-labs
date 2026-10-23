@@ -1,6 +1,7 @@
 # osint-ctf-labs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Donate](https://img.shields.io/badge/Donate-crypto-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/renkagod/.github/blob/main/DONATE.md)
 
 Open-source intelligence **CTF challenge pack** — multi-phase puzzles built around public records, Wikipedia, aviation databases, and transcript research. No Docker required; designed for events, classrooms, and self-study.
 
@@ -40,6 +41,10 @@ osint-ctf-labs/
 
 - Use only public sources and fair-play rules (no harassment, no illegal access).
 - Lab 02 references real accident material — treat transcripts and victims with respect in debriefs.
+
+## Support
+
+If this project is useful to you, you can support it with crypto: [donation addresses](https://github.com/renkagod/.github/blob/main/DONATE.md).
 
 ## License
 
